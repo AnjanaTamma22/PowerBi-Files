@@ -1,5 +1,3 @@
- Project: 'Electric Vehicle Adoption Analysis Dashboard'
-
 This project analyzes and visualizes the adoption of Electric Vehicles (EVs) in the United States from 2016 to 2023. It combines EV purchase data with carbon emission statistics to provide valuable insights into EV trends and their environmental impact across various U.S. states. The dashboard, built using Power BI, includes multiple visualizations such as:
 
 - EV Purchases Over Time: A time-series graph showing the growth of total EV purchases and the share of EVs in total vehicle sales from 2016 to 2023.
